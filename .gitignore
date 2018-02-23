@@ -1,0 +1,3 @@
+*.tif
+*.pickle
+ipynb_checkpoints/
