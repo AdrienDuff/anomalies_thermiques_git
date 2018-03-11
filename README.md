@@ -23,3 +23,7 @@ Les dossiers suivants doivent être remplis avec les données adéquates (pour p
 - DATA_MARNIERES/DAT_marnieres_epreville_280799/28_07_99/jour/calibre/TIF
 
 
+## Les 3 jupyter notebook
+- Le notebook "Visualisation" contient le code permettant de générer les visuels avec les algorithmes ACP et T-SNE.
+- Le notebook "test_basiques_modeles" contient le code qui teste les méthodes autre que CNN.
+- Le notebook "classification_image" contient le code qui permet de tester les 3 méthodes avec les modèles CNN.
