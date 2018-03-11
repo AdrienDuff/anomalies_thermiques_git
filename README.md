@@ -1,5 +1,5 @@
 # anomalies_thermiques_git
-Projet de fin d'étude à l'INSA de Rouen : Détection automatique de puits de marnières.
+Projet de fin d'étude à l'INSA de Rouen : Détection automatique de puits de marnière.
 En collaboration avec le CEREMA sous la tutelle de C. le Guyader et Raphaël Antoine.
 
 ## Install Depedencies
